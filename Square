@@ -1,0 +1,4 @@
+b=float(input('введите длинну'))
+c=float(input('введите ширину'))
+s=b*c
+print (s)
