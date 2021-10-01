@@ -1,0 +1,5 @@
+a=float(input('рост'))
+b=float(input('вес'))
+c=b/(a*a)
+print(c)
+        
